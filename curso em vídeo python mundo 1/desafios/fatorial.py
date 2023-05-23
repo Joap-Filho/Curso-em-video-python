@@ -9,4 +9,4 @@ for fatorial in range(nfatorial, 0, -1):
         print(f'{controle} x {fatorial - 1} = {controle * (fatorial - 1)}')
         controle *= fatorial - 1
         controle1 *= fatorial
-print(f'O fatorial de {nfatorial} é {controle1}') 
+print(f'O fatorial de {nfatorial} é {controle1}')  
